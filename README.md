@@ -24,7 +24,7 @@ A futuristic portfolio website showcasing my projects, skills, and experience.
 
 ## Live Demo
 
-Visit the live site: [MyPortfolio](https://my-portfolio-six-olive-11.vercel.app/)
+Visit the live site: [MyPortfolio](https://tanzimhasan.vercel.app/)
 
 ## Contact
 
